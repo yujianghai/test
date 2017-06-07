@@ -7,7 +7,7 @@ package mytestgithub;
  *                       
  * @Filename: Myt.java
  * @Version: 1.0
- * @Author: Õı≈Û
+ * @Author: √ç√µ√Ö√≥
  * @Email: wangpeng@ejavashop.com
  *
  */
@@ -18,6 +18,7 @@ public class Myt {
      */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
+      System.out.println("yujianghai");
       System.out.println("yujianghai");
     }
 
